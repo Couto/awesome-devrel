@@ -128,3 +128,4 @@ software for Mac
 ## Tips & Tricks
 
 ## Other
+* [YLD's Travel Checklist](https://github.com/yldio/staff-recommendations/blob/master/guides/Travel-Guide.md): YLD's checklist for those travelling
